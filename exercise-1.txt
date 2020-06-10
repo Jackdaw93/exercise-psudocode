@@ -1,9 +1,10 @@
 STORE "nilai1" with any value
 STORE "nilai2" with any value
 STORE "nilai3" with any value
+STORE "hasil" without any value
 
 CALCULATE "nilai1"*"nilai2"*"nilai3"
 
 SET "hasil"
 
-DISPLAY "hasil" 
+DISPLAY "hasil"

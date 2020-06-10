@@ -3,4 +3,5 @@ STORE "i"
 
 WHILE "i" < 100
     DISPLAY "saya senang"
+    i++
 ENDWHILE 
