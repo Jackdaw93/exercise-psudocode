@@ -2,4 +2,4 @@ STORE "sisi" with any value
 
 CALCULATE "sisi"*"sisi"
 SET "hasil"
-DISPLAY "hasil"
+DISPLAY "hasil" 

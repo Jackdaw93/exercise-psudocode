@@ -6,4 +6,4 @@ CALCULATE "nilai1"*"nilai2"*"nilai3"
 
 SET "hasil"
 
-DISPLAY "hasil"
+DISPLAY "hasil" 

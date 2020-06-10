@@ -9,5 +9,5 @@ ELSE IF "nilai"  < 70 AND > 60
 ELSE IF "nilai" < 60 AND > 50
     DISPLAY "D"
 ESLE 
-    DISPLAY "E"
+    DISPLAY "E" 
 ENDIF
