@@ -1,0 +1,10 @@
+STORE "nilai"
+
+WHILE "nilai" < 10
+    IF "nilai" % 2 == 0
+        DISPLAY "Genap"
+    ELSE 
+        DISPLAY "Ganjil"
+    ENDIF
+ENDWHILE
+    

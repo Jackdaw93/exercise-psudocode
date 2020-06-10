@@ -1,0 +1,13 @@
+STORE "nilai"
+
+IF "nilai" > 80
+    DISPLAY "A"
+ELSE IF "nilai" < 80 AND "nilai" > 70 
+    DISPLAY "B"
+ELSE IF "nilai"  < 70 AND "nilai" > 60
+    DISPLAY "C"
+ELSE IF "nilai" < 60 AND "nilai" > 50
+    DISPLAY "D"
+ESLE 
+    DISPLAY "E"
+ENDIF
